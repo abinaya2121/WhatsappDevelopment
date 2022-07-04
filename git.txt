@@ -8,3 +8,6 @@ Author :abinaya
 3.Last screen code
 
 4. Attachments(image,audio,video etc)
+
+5.Hididng the last seen c
+
